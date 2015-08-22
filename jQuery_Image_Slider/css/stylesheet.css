@@ -1,0 +1,42 @@
+.wrapper {
+  margin: 0 auto;
+  text-align: center;
+  width: 600px;
+}
+
+p {
+    font-family: monospace;
+    font-style: italic;
+    background-color: #F0F0F0;
+    font-size: 16px;
+}
+
+#slider {
+  width: 600px;
+  height: 400px;
+  overflow: hidden;
+  margin: 30px auto;
+}
+
+#slider > img {
+  width: 600px;
+  height: 400px;
+  display: none;
+  border-radius: 2%;
+}
+
+a {
+  text-decoration: none;
+  font-family: monospace;
+  background-color: #F0F0F0;
+  font-size: 16px;
+  margin-top: 30px;
+}
+
+a.left {
+  float: left;
+}
+
+a.right {
+  float: right;
+}
