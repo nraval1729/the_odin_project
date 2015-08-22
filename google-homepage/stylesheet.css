@@ -1,0 +1,79 @@
+#navbar {
+  width: 98%;
+  height: 6%;
+  margin-top: 0;
+  padding-top: 0;
+  position: absolute;
+}
+
+#apps {
+    margin-top: 4px;
+    margin-left: 20px;
+    width: 13%;
+    height: 13%;
+    padding: 0;
+    margin-right: -28px;
+}
+
+#image {
+    border-radius: 50%;
+    margin: 0;
+    padding: 0;
+    margin-left: -80px;
+    margin-top: -3px;
+}
+
+#google {
+  width: 22%;
+  height: 15%;
+  margin-left: 40%;
+  margin-top: 15%;
+}
+
+#bar {
+  width: 45%;
+  margin-left: 28%;
+  margin-top: 15px;
+}
+
+#search {
+  margin-left: 40%;
+  margin-top: 15px;
+  font-weight: bold;
+}
+
+#lucky {
+  margin-left: 15px;
+  font-weight: bold;
+}
+
+#footer {
+  margin-top: 250px;
+  width: 98%;
+  height: 4%;
+  background-color: #F5F5F5;
+  position: absolute;
+}
+
+ul {
+  list-style-type: none;
+  margin:0;
+  padding: 0;
+}
+
+li {
+  display: inline;
+  margin: 5px;
+  margin-top: 4px;
+}
+
+.right {
+  float: right;
+}
+
+a {
+  text-decoration: none;
+  font-family: arial;
+  color: black;
+  font-size: 13px;
+}
